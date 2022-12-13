@@ -50,7 +50,6 @@ INDEX VERSION 1.131+C:\ProjetosEclipse\dscatalog\.metadata\.plugins\org.eclipse.
 1660535450.index
 34855.index
 4198658126.index
-1965174767.index
 4168739845.index
 917441891.index
 944308491.index
